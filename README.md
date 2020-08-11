@@ -1,4 +1,4 @@
-***This code modified from the code avaliable at: "https://github.com/IcarPA-TBlab/MetagenomicDC/blob/master/models/CNN.py"  
+This code modified from the code avaliable at: "https://github.com/IcarPA-TBlab/MetagenomicDC/blob/master/models/CNN.py"  
 
 CNN_RAI
 
@@ -15,4 +15,4 @@ Keras library (2.x)
 Dataset:
 
 Oxford Nanopore MinION sequencing data belonging to Bacteroides, Klebsiella, Yersinia, Mycobacterium, Clostridium and Escherichia genera were obtained from NCBI read archives and NCBI
-sra accession numbers respectively are ERR1898312 ,ERR1474981 SRR5117441, SRR5277601, SRR5344355. 
+sra accession numbers respectively are ERR1898312 ,ERR1474981 SRR5117441, SRR5277601, SRR5344355.
